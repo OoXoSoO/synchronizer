@@ -4,7 +4,7 @@ Este repositorio contiene un proyecto en Go que utiliza el paquete GoFlow (https
 
 ## Descripción
 
-Este proyecto se trata de una prueba de concepto para hacer pruebas con la librería GoFlow. Está diseñado para ejecutar un flujo de trabajo simple que realiza una tarea programada utilizando la biblioteca GoFlow.
+Este proyecto se trata de una prueba de concepto para verificar que la librería GoFlow se ajusta mis propias necesidades. Está diseñado para ejecutar un flujo de trabajo simple que realiza una tarea programada utilizando la biblioteca GoFlow.
 
 El flujo de trabajo está definido en el archivo `main.go` y consiste en una tarea que imprime "hello" cada minuto.
 
