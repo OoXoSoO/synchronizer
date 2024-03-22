@@ -1,6 +1,6 @@
 # Synchronizer
 
-Este repositorio contiene un proyecto en Go que utiliza la biblioteca GoFlow para crear y ejecutar flujos de trabajo.
+Este repositorio contiene un proyecto en Go que utiliza el paquete GoFlow (https://pkg.go.dev/github.com/fieldryand/goflow) para crear y ejecutar flujos de trabajo.
 
 ## Descripción
 
