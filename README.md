@@ -1,4 +1,4 @@
-# Proyecto GoFlow
+# Proyecto Synchronizer
 
 Este repositorio contiene un proyecto en Go que utiliza la biblioteca GoFlow para crear y ejecutar flujos de trabajo.
 
